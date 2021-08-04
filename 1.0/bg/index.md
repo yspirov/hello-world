@@ -1,5 +1,7 @@
 ---
-permalink: /index.html
+title: Пакет локализация за България
+redirect_from:
+  - /bg/
 ---
 
 # Dynamics 365 Business Central
