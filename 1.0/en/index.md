@@ -1,5 +1,8 @@
 ---
-permalink: /en/index.html
+title: Localization package manual
+redirect_from:
+  - /en/
+  - /
 ---
 
 # Dynamics 365 Business Central
