@@ -1,6 +1,5 @@
 ---
 permalink: /index.html
-permalink: /bg/index.html
 ---
 
 Начална страница на български
